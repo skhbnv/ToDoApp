@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cardTextColor">#7A7A7A</color>
+
+    <color name="anotherYellowButton">#F9C921</color>
+    <color name="white">#FFF</color>
+
+    <color name="highUrgencyColor">#FE4850</color>
+    <color name="middleUrgencyColor">#FF9532</color>
+    <color name="lowUrgencyColor">#00B257</color>
+</resources>
